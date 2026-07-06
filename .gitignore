@@ -61,3 +61,7 @@ dkms.conf
 test_text
 text
 app
+
+# HW2 Binaries
+test_events
+try
